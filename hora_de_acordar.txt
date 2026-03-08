@@ -1,0 +1,19 @@
+1. O alarme toca
+   2. Abro os olhos devagar
+   3. Desligo o alarme
+
+   4. Me sento na cama
+      4.1 Se ainda estiver com sono
+          4.2 Espreguiço e respiro fundo
+          4.3 Se não, levanto direto
+
+   5. Coloco os chinelos no pé
+   6. Caminho até o banheiro
+
+   7. Chego na porta do banheiro
+      7.1 Se a porta estiver fechada
+          7.2 Giro a maçaneta e abro
+          7.3 Se não, entro direto
+
+   8. Lavo o rosto com água fria
+   9. Escovo os dentes
